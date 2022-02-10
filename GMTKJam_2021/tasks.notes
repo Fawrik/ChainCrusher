@@ -1,0 +1,67 @@
+Tasks (in that prio)
+
+Fred 
+[!] Squash and stretch the ball and player to sell the movement 
+
+
+
+Seb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// player.GetCompo(Rigidbody).velocity.magnitude
+
+// minVel = 0;
+
+// if (maxVel < player.GetCompo(Rigidbody).velocity.magnitude)
+// {
+//    maxVel = player.GetCompo(Rigidbody).velocity.magnitude
+// }
+// valueBetweenZeroAndOne = //some math operation with minVel and MaxVel 
+
+// player.transform.right = Mathf.Lerp(minVel, maxVel, valueBetweenZeroAndOne);

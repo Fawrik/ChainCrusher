@@ -1,0 +1,135 @@
+{
+    "files.exclude": {
+        "**/.DS_Store": true,
+        "**/.git": true,
+        "**/.gitignore": true,
+        "**/.gitmodules": true,
+        "**/*.3ds": true,
+        "**/*.3DS": true,
+        "**/*.asset": true,
+        "**/*.booproj": true,
+        "**/*.cubemap": true,
+        "**/*.dll": true,
+        "**/*.exe": true,
+        "**/*.fbx": true,
+        "**/*.FBX": true,
+        "**/*.flare": true,
+        "**/*.gif": true,
+        "**/*.ico": true,
+        "**/*.jpeg": true,
+        "**/*.jpg": true,
+        "**/*.lxo": true,
+        "**/*.LXO": true,
+        "**/*.ma": true,
+        "**/*.MA": true,
+        "**/*.mat": true,
+        "**/*.meta": true,
+        "**/*.mid": true,
+        "**/*.midi": true,
+        "**/*.obj": true,
+        "**/*.OBJ": true,
+        "**/*.pdf": true,
+        "**/*.pidb": true,
+        "**/*.png": true,
+        "**/*.prefab": true,
+        "**/*.psd": true,
+        "**/*.suo": true,
+        "**/*.tga": true,
+        "**/*.tif": true,
+        "**/*.tiff": true,
+        "**/*.unity": true,
+        "**/*.unityproj": true,
+        "**/*.user": true,
+        "**/*.userprefs": true,
+        "**/*.wav": true,
+        "**/**.pfx": true,
+        "**/Danae": true,
+        "**/DeprecatedAssets": true,
+        "**/Fonts": true,
+        "**/Seb": true,
+        "**/Sounds": true,
+        "build/": true,
+        "Build/": true,
+        "library/": true,
+        "Library/": true,
+        "obj/": true,
+        "Obj/": true,
+        "ProjectSettings/": true,
+        "temp/": true,
+        "Temp/": true,
+    }
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                // Regular text
+                "scope": "source.notes",
+                "settings": {
+                    "foreground": "#ebebeb"
+                }
+            },
+            {
+                // Headings
+                "scope": "markup.heading.notes",
+                "settings": {
+                    "foreground": "#93ceff"
+                }
+            },
+            {
+                // TODO items that are DONE
+                "scope": "markup.changed.notes",
+                "settings": {
+                    "foreground": "#00c42a"
+                }
+            },
+            {
+                // TODO items that have been CANCELED
+                "scope": "markup.canceled.notes",
+                "settings": {
+                    "foreground": "#ffc72c"
+                }
+            },
+            {
+                // Arrows and Tags
+                "scope": "variable.language.notes",
+                "settings": {
+                    "foreground": "#eeff00"
+                }
+            },
+            {
+                // Language Name (text inside square brackets)
+                "scope": "markup.bold.notes",
+                "settings": {
+                    "foreground": "#48d448"
+                }
+            },
+            {
+                // Emphasis
+                "scope": "keyword.other.notes",
+                "settings": {
+                    "foreground": "#569cd6ff"
+                }
+            },
+            {
+                // Open & Closed Parentheses
+                "scope": "keyword.operator.notes",
+                "settings": {
+                    "foreground": "#add14a"
+                }
+            },
+            {
+                // Exclamation Mark
+                "scope": "invalid.deprecated.notes",
+                "settings": {
+                    "foreground": "#f44747ff"
+                }
+            },
+            {
+                // Commented Text
+                "scope": "comment.notes",
+                "settings": {
+                    "foreground": "#5eff14"
+                }
+            },
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8e19605784a2ec1448ba5615367f80e7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyDeathSFX01: {fileID: 8300000, guid: f762b12d01a851a4390f3058726bb0d7, type: 3}
+  - enemyDeathSFX02: {fileID: 8300000, guid: 19e5219fcc2cc6340b5d83cfc35bde6f, type: 3}
+  - enemyDeathSFX03: {fileID: 8300000, guid: 39cea21777a52a14486907df9209ef82, type: 3}
+  - TextPopUpPrefab: {instanceID: 0}
+  - deathPS: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

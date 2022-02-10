@@ -1,0 +1,61 @@
+        == Things to do to juice it up ==
+
+
+---> ! g-boy !
+[ ] no immediate feedback when hurt by an enemy (lacks an indication on where exactly player took damage)
+[ ] Lacks telegraphing for enemy attack AND enemy spawning 
+[√] add a trail to the ball ?
+[ ] make release and charge sound louder, figure out position to global, make charge sound have less attack
+
+---> ! Seb ! 
+[ ] Record the max and min velocity and just scale player and ball accordingly
+[√] Ask g boy for awesome sound cues and SFX
+[√] Having a slight pulse on everything 
+
+
+---> ! Fred ! 
+[√] rewarding better when you manage to reflect enemy bullets 
+[ ] Communicate better the cooldown reset when successfully hitting an enemy with it 
+[ ] Make the low health feels more impactful 
+
+
+==> "misc"
+[ ] "dust" particles influenced by what is happening to better convey the action 
+[ ] images remanentes to communicate where the ball was 
+[ ] radial loading bar on the ball to communicate the cooldown timer (and add a ding when it's done) 
+
+==> Priority
+[!] Taking damage really needs to feel more impactful
+    - need SFX
+    - slomo
+[!] When a projectile is refelcted, split the projectile into multiple projectiles that will hit the nearby enemies 
+
+
+
+[!] Slo mo and woom when projectile reflection (and freeze frame to sell it)
+[!] Squash and stretch the ball and player to sell the movement 
+[√] Direction of the ball is not clear when special attack (could draw a dotted line ? Could display it while holding, and shoot while release ?)
+
+[!] Add BLUR when huge impact 
+[!] Enemy shatters when hit
+[!] Audio cue when special attack is used 
+
+[√] Make a bunch of awesome SFX
+[√] Implement the SFX
+[!] Test and tweak SFX, especially regarding to reverb in post
+[ ] bass boost the fuck outta the explosions, make them louder!
+[√] Ball trail change color when special attack used
+
+
+[√] 
+
+// TODO  seb pls fix this
+
+//gereons notes after playing 19.10.2021
+- increase ball size after special (explosion even maybe?)
+-> create space for player not to die in.
+- make bullets and enemies have different sizes
+- missing the telegraphing of spawn and projectile shot
+- i personally feel like the player car shouldnt be bouncing to the music
+- moar particle sysmteeeemsss
+- moar screenshakkkeeeee
